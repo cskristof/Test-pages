@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Campaign",
+        "achievements": [4,7,5,8,18]
+    },
+    {
+        "name": "Crafting",
+        "achievements": [1,14,3,20,19,25]
+    },
+    {
+        "name": "Mirage",
+        "achievements": [2,6,12,22,27,29,32,33,34,37]
+    },
+    {
+        "name": "League mechanics",
+        "achievements": [9,10,17,24,26]
+    },
+    {
+        "name": "Maps",
+        "achievements": [11,13,15,16,23]
+    },
+    {
+        "name": "End game",
+        "achievements": [21,28,35,36,39]
+    },
+    {
+        "name": "Grind",
+        "achievements": [30,31,38,40]
+    }
+]
