@@ -1,0 +1,23 @@
+@startuml Challenges
+
+class Challenge {
+    name: String
+    number: Int
+    requirement: Int
+    tasks: [Task]
+}
+
+class Task {
+    name: String
+    suggestion: String
+}
+
+class ChallengeGroup {
+    name: String
+    challenges: [Int]
+}
+
+ChallengeGroup ..> Challenge: number
+Challenge --> Task
+
+@enduml
